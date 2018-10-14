@@ -1,4 +1,4 @@
-#+TITLE: Lecturas del Grupo de Lógica Computacional
+#+TITLE: Readings of the Computational Logic Group
 #+OPTIONS: ^:nil
 This repository is a compilation of shared readings in the mailing list of [[http://www.glc.us.es][the computational logic group]].The compilation is ordered by the date of its publication in the list. At the end of each article you will find labels relating to the systems you use or your content.
 
